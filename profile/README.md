@@ -1,5 +1,34 @@
 # dmfdeploy
 
+**Provisioning a media workload, and what the record says**
+
+https://github.com/user-attachments/assets/677f2278-1f5b-4bc5-9685-ae23d0a438ce
+
+One run against a live sandbox, 81 seconds, no sound. Name a media workload,
+pick the template that is one receiver and two test sources, place it on the one
+facility the console lists, say why, confirm. The wait is a time-lapse and is
+marked as one. The last two beats open the platform's own record of that run and
+find the reason that was typed into it.
+
+One ARM node, two sources, one receiver. The receiver's picture is live in the
+frame. The tiles beside it report running, and the pictures on them are
+illustrations, not previews.
+
+"Deploy accepted" is the platform taking the request, not fulfilling it. The
+record afterwards carries who asked for what and why.
+
+The quiet monitoring state in the opening is platform status, not media health.
+It says nothing about picture or timing.
+
+No caption states how long the wait took. The provisioning page's own counter is
+on screen and is a sub-job timer rather than the total. Three runs of this
+operation on the same facility took visibly different amounts of time, so no
+single run supports a number.
+
+What it does not show: source switching, teardown, deletion, or anything after
+the deploy record. No measured usage, no media telemetry, no performance
+numbers. One workload on one node is the whole of it.
+
 > **Independent exploratory project.** `dmfdeploy` is not affiliated with,
 > endorsed by, sponsored by, or otherwise connected to the European Broadcasting
 > Union (EBU). References to EBU publications, including the *Dynamic Media
