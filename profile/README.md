@@ -75,6 +75,9 @@ README describes its place in this project's reading of the EBU layer vocabulary
   (Q&A, and the RFC-before-ADR pipeline).
 - **PRs:** Conventional Commits, DCO sign-off, rebase-merge; CI must be green —
   **approval lands the PR automatically**.
+- **Corrections:** what the project said in public that turned out wrong, and
+  what is right, is logged in
+  [CORRECTIONS](https://github.com/dmfdeploy/dmfdeploy/blob/main/docs/CORRECTIONS.md).
 - Much of the platform is built by AI agents under operator orchestration — by
   design, documented as method in
   [JOURNEY](https://github.com/dmfdeploy/dmfdeploy/blob/main/docs/JOURNEY.md#working-with-agents-the-method).
