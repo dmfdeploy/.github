@@ -49,6 +49,11 @@ ARM k3s, driven end-to-end through the platform's catalog control chain
 *stranger* can reproduce this — is what v0.1 is closing:
 [the thesis one-pager](https://github.com/dmfdeploy/dmfdeploy/blob/main/docs/THESIS.md).
 
+**What v0.1 does not claim:** no production ST-2110/PTP/multicast
+correctness, no real-time media-plant claims, no multi-node HA, no cross-site
+federation, no performance numbers. Single-node is the proof surface; the rest
+is named future work, not implied capability.
+
 ## Start here
 
 | You are… | Go to |
